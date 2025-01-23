@@ -47,7 +47,7 @@ with open('Students.csv', 'r') as file:
 
 with open('Student_Results.csv', 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(['Student Name', 'Math', 'Math_Grade','Science','Science_Grade', 'English', 'English_Grade'])
+        writer.writerow(['Student Name', 'Math', 'Math_Grade','Science','Science_Grade', 'English', 'English_Grade',  'Average', 'Grade'])
         writer.writerows(students)
 
 print('Results saved to student_results.csv')

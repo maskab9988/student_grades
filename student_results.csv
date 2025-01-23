@@ -1,4 +1,4 @@
-Student Name,Math,Math_Grade,Science,Science_Grade,English,English_Grade
+Student Name,Math,Math_Grade,Science,Science_Grade,English,English_Grade,Average,Grade
    Jane,70,"('D', 'You need to work harder next time')",65,"('D', 'You need to work harder next time')",75,C
    Bob,55,"('D', 'You need to work harder next time')",60,"('D', 'You need to work harder next time')",50,"('F', 'You have failed, better luck next time')"
    maskab,88,"('A', 'You have achieved top grade,  congratulations')",73,"('D', 'You need to work harder next time')",91,"('A', 'You have achieved top grade,  congratulations')"
