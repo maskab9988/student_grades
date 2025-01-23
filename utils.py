@@ -9,7 +9,7 @@ def assign_grade(average):
     elif average >= 65:
         return  'C'
     elif average >= 55:
-        return  'D'
+        return  'Falied'
 
 
 
