@@ -8,7 +8,7 @@ def assign_grade(average):
         return  'B'
     elif average >= 65:
         return  'C'
-    elif average >= 30:
+    elif average >= 55:
         return  'D'
 
 
