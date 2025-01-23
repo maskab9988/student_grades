@@ -2,8 +2,8 @@ def calculate_average(scores):
     return sum(scores) / len(scores)
 
 def assign_grade(average):
-    if average >= 85:
-        return    'A'
+    if average >= 95:
+        return    'A',   "You have achieved top grade,  congratulations"
     elif average >= 75:
         return  'B'
     elif average >= 65:
